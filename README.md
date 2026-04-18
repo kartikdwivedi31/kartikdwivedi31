@@ -50,9 +50,6 @@ Intelligent task assignment system with rule-based allocation
 - ☁️ **AWS Certified Cloud Practitioner**
 - 🤖 **Microsoft Certified: GitHub Copilot (GH-300)**
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 ## 📫 Let's Connect!
 - 📧 Email: **kartikdwivedi31@gmail.com**
 - 📱 Phone: 9691193553
