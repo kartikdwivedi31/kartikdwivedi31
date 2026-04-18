@@ -34,7 +34,7 @@ Associate Consultant & Backend Developer at **Capgemini** with 2+ years of exper
 
 ## 🚀 Featured Projects
 
-### [Event-Driven Billing System](https://github.com/yourusername/event-driven-billing-system)
+### [Event-Driven Billing System](https://github.com/kartikdwivedi31/event-driven-subscription-billing-system.git)
 Enterprise-grade microservices system with Kafka event streaming
 - **Tech:** Java, Spring Boot, Apache Kafka, MySQL, MongoDB, Angular
 - **Features:** Multi-customer billing, PDF/CSV invoice generation, real-time processing
