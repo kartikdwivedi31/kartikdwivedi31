@@ -40,12 +40,6 @@ Basic microservices system with Kafka event streaming.
 - **Features:** Multi-customer billing, real-time processing
 - **Architecture:** 3 microservices with event-driven communication
 
-### [Task Allocation Engine](https://github.com/yourusername/task-allocation-engine)
-Intelligent task assignment system with rule-based allocation
-- **Tech:** Java, Spring Boot, RabbitMQ, Angular, Rule Engine
-- **Features:** Skill-based matching, workload balancing, real-time dashboard
-- **Architecture:** Microservices with queue-based processing
-
 ## 🏆 Certifications
 - ☁️ **AWS Certified Cloud Practitioner**
 - 🤖 **Microsoft Certified: GitHub Copilot (GH-300)**
